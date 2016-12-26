@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<TouchableOpacity>$0</TouchableOpacity>
+]]>
+</content>
+    <tabTrigger>tto</tabTrigger>
+    <scope>source.js</scope>
+    <description>TouchableOpacity Tag</description>
+</snippet>

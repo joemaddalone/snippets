@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+GraphQLList
+]]>
+</content>
+    <tabTrigger>gql</tabTrigger>
+    <scope>sourcejs</scope>
+    <description>GraphQLList</description>
+</snippet>

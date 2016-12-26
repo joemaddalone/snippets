@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+$0.setHeader('Content-Type', 'text/javascript')
+]]>
+</content>
+    <tabTrigger>shjs</tabTrigger>
+    <description>setHeader JS</description>
+</snippet>

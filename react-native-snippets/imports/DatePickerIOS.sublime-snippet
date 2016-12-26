@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+DatePickerIOS
+]]>
+</content>
+    <tabTrigger>idp</tabTrigger>
+    <scope>source.js</scope>
+    <description>DatePickerIOS</description>
+</snippet>

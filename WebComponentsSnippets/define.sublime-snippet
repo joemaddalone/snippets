@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+customElements.define()
+]]></content>
+  <tabTrigger>wdef</tabTrigger>
+</snippet>

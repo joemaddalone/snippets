@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+GraphQLScalarType
+]]>
+</content>
+    <tabTrigger>gqsc</tabTrigger>
+    <scope>sourcejs</scope>
+    <description>GraphQLScalarType</description>
+</snippet>

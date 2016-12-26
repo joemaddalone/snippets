@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+attached: function() {
+  $0
+}
+]]></content>
+  <tabTrigger>patt</tabTrigger>
+</snippet>

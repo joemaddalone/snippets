@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<script src="bower_components/angular/angular.min.js"></script>
+]]>
+</content>
+    <tabTrigger>bas</tabTrigger>
+    <description>bower-angular script</description>
+</snippet>

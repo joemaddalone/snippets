@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+ActionSheetIOS
+]]>
+</content>
+    <tabTrigger>ias</tabTrigger>
+    <scope>source.js</scope>
+    <description>ActionSheetIOS</description>
+</snippet>

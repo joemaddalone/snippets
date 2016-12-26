@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+detachedCallback(){
+  console.log('detached')
+}$0
+]]></content>
+  <tabTrigger>lwdet</tabTrigger>
+</snippet>
+

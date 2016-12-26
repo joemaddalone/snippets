@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+LayoutAnimation.configureNext($0)
+]]>
+</content>
+    <tabTrigger>lacon</tabTrigger>
+    <scope>source.js</scope>
+    <description>LayoutAnimation.configureNext</description>
+</snippet>

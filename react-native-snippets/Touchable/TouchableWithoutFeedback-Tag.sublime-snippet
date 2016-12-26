@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<TouchableWithoutFeedback>$0</TouchableWithoutFeedback>
+]]>
+</content>
+    <tabTrigger>ttwf</tabTrigger>
+    <scope>source.js</scope>
+    <description>TTouchableWithoutFeedback Tag</description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+onPanResponderMove
+]]>
+</content>
+    <tabTrigger>prm</tabTrigger>
+    <scope>source.js</scope>
+    <description>onPanResponderMove</description>
+</snippet>
+
+

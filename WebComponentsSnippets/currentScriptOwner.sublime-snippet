@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+document.currentScript.ownerDocument
+]]></content>
+  <tabTrigger>dco</tabTrigger>
+</snippet>

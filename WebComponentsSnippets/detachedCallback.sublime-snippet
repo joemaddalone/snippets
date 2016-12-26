@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+detachedCallback(){
+  $0
+}
+]]></content>
+  <tabTrigger>wdet</tabTrigger>
+</snippet>
+

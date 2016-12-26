@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+$0.setHeader('Content-Type', 'text/html')
+]]>
+</content>
+    <tabTrigger>shh</tabTrigger>
+    <description>setHeader HTML</description>
+</snippet>

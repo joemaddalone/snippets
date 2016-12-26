@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+onMoveShouldSetPanResponder
+]]>
+</content>
+    <tabTrigger>prom</tabTrigger>
+    <scope>source.js</scope>
+    <description>onMoveShouldSetPanResponder</description>
+</snippet>
+
+

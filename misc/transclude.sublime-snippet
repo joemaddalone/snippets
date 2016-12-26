@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+transclude
+]]>
+</content>
+    <tabTrigger>tra</tabTrigger>
+    <description>angular.transclude</description>
+</snippet>

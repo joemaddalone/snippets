@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+clearInterval($0)
+]]>
+</content>
+    <tabTrigger>cli</tabTrigger>
+    <description>clearInterval</description>
+</snippet>

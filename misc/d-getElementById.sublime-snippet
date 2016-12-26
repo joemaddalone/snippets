@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+document.getElementById('$1')$0
+]]>
+</content>
+    <tabTrigger>dgi</tabTrigger>
+    <description>document.getElementById</description>
+</snippet>

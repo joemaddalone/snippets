@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+createShadowRoot()
+]]></content>
+  <tabTrigger>csr</tabTrigger>
+</snippet>

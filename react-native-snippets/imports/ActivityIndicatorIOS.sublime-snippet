@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+ActivityIndicatorIOS
+]]>
+</content>
+    <tabTrigger>iai</tabTrigger>
+    <scope>source.js</scope>
+    <description>ActivityIndicatorIOS</description>
+</snippet>

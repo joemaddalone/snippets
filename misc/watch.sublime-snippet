@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+\$watch('$1',function(newValue, oldValue){
+  $0
+})
+]]>
+</content>
+    <tabTrigger>watch</tabTrigger>
+    <description>angular.watch</description>
+</snippet>

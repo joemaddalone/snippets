@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+link: function(scope, elm, attrs, ctrl){
+
+}
+]]>
+</content>
+    <tabTrigger>alink</tabTrigger>
+    <description>angular.directive.link</description>
+</snippet>
+

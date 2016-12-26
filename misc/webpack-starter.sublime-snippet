@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[
+module.exports = {
+  entry: '$1',
+  output: {
+    path: '$2',
+    filename: '$3',
+  },
+  devServer: {
+    inline:true,
+    contentBase: '$4',
+    port: 3333
+  },
+  module: {
+    loaders: [
+      $0
+    ]
+  }
+}
+]]>
+</content>
+    <tabTrigger>wpc</tabTrigger>
+    <description>Webpack config starter</description>
+</snippet>

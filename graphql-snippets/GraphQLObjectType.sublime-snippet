@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+GraphQLObjectType
+]]>
+</content>
+    <tabTrigger>gqo</tabTrigger>
+    <scope>sourcejs</scope>
+    <description>GraphQLObjectType</description>
+</snippet>

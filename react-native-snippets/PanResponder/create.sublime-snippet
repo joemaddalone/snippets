@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+PanResponder.create({$0});
+]]>
+</content>
+    <tabTrigger>prc</tabTrigger>
+    <scope>source.js</scope>
+    <description>PanResponder.create</description>
+</snippet>
+
+

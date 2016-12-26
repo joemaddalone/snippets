@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+GraphQLString
+]]>
+</content>
+    <tabTrigger>gqs</tabTrigger>
+    <scope>sourcejs</scope>
+    <description>GraphQLString</description>
+</snippet>

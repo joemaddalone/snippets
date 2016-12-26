@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+LayoutAnimation.Presets.spring
+]]>
+</content>
+    <tabTrigger>laps</tabTrigger>
+    <scope>source.js</scope>
+    <description>LayoutAnimation.Presets.spring</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+window.addEventListener('$1', $2)
+]]>
+</content>
+    <tabTrigger>wal</tabTrigger>
+    <description>windowAddEventListener</description>
+</snippet>

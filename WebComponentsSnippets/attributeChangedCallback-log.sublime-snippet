@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+attributeChangedCallback(name, oldValue, newValue){
+  console.log(`\${name} was changed to \${newValue}`)
+}$0
+]]></content>
+  <tabTrigger>lwac</tabTrigger>
+</snippet>

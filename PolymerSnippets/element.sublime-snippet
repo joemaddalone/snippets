@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<dom-module id="$1">
+  <template></template>
+  <script>
+    Polymer({
+      is: "$1"$0
+    })
+  </script>
+</dom-module>
+]]></content>
+  <tabTrigger>pel</tabTrigger>
+</snippet>

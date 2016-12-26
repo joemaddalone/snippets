@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+JSON.stringify($0)
+]]>
+</content>
+    <tabTrigger>jstr</tabTrigger>
+    <description>JSON.stringify</description>
+</snippet>

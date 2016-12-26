@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+GraphQLUnionType
+]]>
+</content>
+    <tabTrigger>gqu</tabTrigger>
+    <scope>sourcejs</scope>
+    <description>GraphQLUnionType</description>
+</snippet>

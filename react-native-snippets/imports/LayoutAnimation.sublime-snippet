@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+LayoutAnimation
+]]>
+</content>
+    <tabTrigger>ila</tabTrigger>
+    <scope>source.js</scope>
+    <description>LayoutAnimation</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+http://swapi.co/api/${0}/?format=json
+]]>
+</content>
+    <tabTrigger>swapi</tabTrigger>
+    <description>swapi.co</description>
+</snippet>

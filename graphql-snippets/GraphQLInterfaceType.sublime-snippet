@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+GraphQLInterfaceType
+]]>
+</content>
+    <tabTrigger>gqo</tabTrigger>
+    <scope>sourcejs</scope>
+    <description>GraphQLInterfaceType</description>
+</snippet>

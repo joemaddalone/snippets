@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+innerHTML
+]]>
+</content>
+    <tabTrigger>ih</tabTrigger>
+    <description>innerHTML</description>
+</snippet>

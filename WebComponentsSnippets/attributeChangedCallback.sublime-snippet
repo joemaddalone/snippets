@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+attributeChangedCallback(name, oldValue, newValue){
+  $0
+}
+]]></content>
+  <tabTrigger>wac</tabTrigger>
+</snippet>

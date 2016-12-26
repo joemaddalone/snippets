@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+[{"name": "Walter"}, {"name": "Jesse"}, {"name": "Saul"}]
+]]>
+</content>
+    <tabTrigger>names</tabTrigger>
+    <description>names trigger</description>
+</snippet>

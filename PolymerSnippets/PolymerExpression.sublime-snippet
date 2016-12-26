@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+PolymerExpressions.prototype.$1 = function(input){
+  return $0;
+};
+]]></content>
+  <tabTrigger>ple</tabTrigger>
+</snippet>

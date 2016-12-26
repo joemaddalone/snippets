@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+LayoutAnimation.Presets.easeInEaseOut
+]]>
+</content>
+    <tabTrigger>lape</tabTrigger>
+    <scope>source.js</scope>
+    <description>LayoutAnimation.Presets.easeInEaseOut</description>
+</snippet>

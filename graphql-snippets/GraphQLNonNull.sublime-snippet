@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+GraphQLNonNull
+]]>
+</content>
+    <tabTrigger>gqnn</tabTrigger>
+    <scope>sourcejs</scope>
+    <description>GraphQLNonNull</description>
+</snippet>

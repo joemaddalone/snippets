@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+detached: function() {
+  $0
+}
+]]></content>
+  <tabTrigger>pdet</tabTrigger>
+</snippet>

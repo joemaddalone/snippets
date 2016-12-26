@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+setNativeProps({$0});
+]]>
+</content>
+    <tabTrigger>snp</tabTrigger>
+    <scope>source.js</scope>
+    <description>setNativeProps</description>
+</snippet>
+
+

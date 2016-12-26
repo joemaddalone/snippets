@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+reqwest({
+	url: '$1',
+	type: '$2',
+	success:function(resp){
+		$0
+	}
+})
+]]>
+</content>
+    <tabTrigger>reqw</tabTrigger>
+    <description>reqwest</description>
+</snippet>

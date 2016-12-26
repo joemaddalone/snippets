@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+GraphQLEnumType
+]]>
+</content>
+    <tabTrigger>gqe</tabTrigger>
+    <scope>sourcejs</scope>
+    <description>GraphQLEnumType</description>
+</snippet>

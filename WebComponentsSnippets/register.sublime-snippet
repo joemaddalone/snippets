@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+document.registerElement( '$1', class extends HTMLElement {
+  $0
+});
+]]></content>
+  <tabTrigger>wreg</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+angular.module('$1',[])$0
+]]>
+</content>
+    <tabTrigger>amod</tabTrigger>
+    <description>angular.module</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+fetch( $0 )
+  .then( response => response.json() )
+  .then( data => {})
+]]>
+</content>
+    <tabTrigger>fetch</tabTrigger>
+    <description>fetch</description>
+</snippet>

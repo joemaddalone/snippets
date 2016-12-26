@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+insertAdjacentHTML
+]]></content>
+  <tabTrigger>isa</tabTrigger>
+  <description>insertAdjacentHTML</description>
+</snippet>

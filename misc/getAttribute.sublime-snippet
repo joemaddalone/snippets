@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+getAttribute('$0')
+]]>
+</content>
+    <tabTrigger>gA</tabTrigger>
+    <description>getAttribute</description>
+</snippet>

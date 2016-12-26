@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+setInterval($0,$1)
+]]>
+</content>
+    <tabTrigger>si</tabTrigger>
+    <description>setInterval</description>
+</snippet>

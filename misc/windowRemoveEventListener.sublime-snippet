@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+window.removeEventListener('$1', $2)
+]]>
+</content>
+    <tabTrigger>wrl</tabTrigger>
+    <description>window.removeEventListener</description>
+</snippet>

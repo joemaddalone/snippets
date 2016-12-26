@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+createdCallback(){
+  console.log('created')
+}$0
+]]></content>
+  <tabTrigger>lwcre</tabTrigger>
+</snippet>

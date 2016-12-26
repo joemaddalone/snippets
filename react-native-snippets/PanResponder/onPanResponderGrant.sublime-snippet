@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+onPanResponderGrant
+]]>
+</content>
+    <tabTrigger>prg</tabTrigger>
+    <scope>source.js</scope>
+    <description>onPanResponderGrant</description>
+</snippet>
+
+

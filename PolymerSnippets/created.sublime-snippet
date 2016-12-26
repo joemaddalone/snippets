@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+created: function() {
+  $0
+}
+]]></content>
+  <tabTrigger>pcre</tabTrigger>
+</snippet>

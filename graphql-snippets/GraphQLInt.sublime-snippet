@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+GraphQLInt
+]]>
+</content>
+    <tabTrigger>gqi</tabTrigger>
+    <scope>sourcejs</scope>
+    <description>GraphQLInt</description>
+</snippet>

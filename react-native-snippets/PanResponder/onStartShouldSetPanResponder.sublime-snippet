@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+onStartShouldSetPanResponder
+]]>
+</content>
+    <tabTrigger>prss</tabTrigger>
+    <scope>source.js</scope>
+    <description>onStartShouldSetPanResponder</description>
+</snippet>
+
+

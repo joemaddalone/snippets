@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<TouchableHighlight>$0</TouchableHighlight>
+]]>
+</content>
+    <tabTrigger>tth</tabTrigger>
+    <scope>source.js</scope>
+    <description>TouchableHighlight Tag</description>
+</snippet>

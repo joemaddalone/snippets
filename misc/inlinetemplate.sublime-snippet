@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/ng-template" id="$1">
+   $0
+</script>
+]]>
+</content>
+    <tabTrigger>atemp</tabTrigger>
+    <description>angular inline template</description>
+</snippet>

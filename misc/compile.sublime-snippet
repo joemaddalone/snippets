@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+compile: function compile(templateElement, templateAttributes) {
+  return {
+    pre: function preLink(scope, elm, attrs, ctrl) {
+
+    },
+    post: function postLink(scope, elm, attrs, ctrl){
+
+    }
+  }
+}
+]]>
+</content>
+    <tabTrigger>acomp</tabTrigger>
+    <description>angular.compile</description>
+</snippet>

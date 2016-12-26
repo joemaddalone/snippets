@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<TabBarIOS.Item>$0</TabBarIOS.Item>
+]]>
+</content>
+    <tabTrigger>tbios</tabTrigger>
+    <scope>source.js</scope>
+    <description>TabBarIOS.Item</description>
+</snippet>

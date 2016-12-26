@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+setTimeout($0,$1)
+]]>
+</content>
+    <tabTrigger>st</tabTrigger>
+    <description>setTimeout</description>
+</snippet>

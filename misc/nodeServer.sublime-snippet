@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+var http = require('http')
+
+http.createServer(function(req, res) {
+  $0
+}).listen(3000, function(err) {
+  if (err) throw err
+  console.log('Listening on 3000...')
+})
+]]>
+</content>
+    <tabTrigger>nh</tabTrigger>
+    <description>node server</description>
+</snippet>

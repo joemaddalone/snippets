@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+createdCallback(){
+  $0
+}
+]]></content>
+  <tabTrigger>wcre</tabTrigger>
+</snippet>

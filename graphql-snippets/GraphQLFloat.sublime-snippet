@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+GraphQLFloat
+]]>
+</content>
+    <tabTrigger>gqf</tabTrigger>
+    <scope>sourcejs</scope>
+    <description>GraphQLFloat</description>
+</snippet>

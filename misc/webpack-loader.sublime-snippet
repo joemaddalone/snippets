@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[{
+  test: $1,
+  exclude: /node_modules/,
+  loader: '$0'
+}
+]]>
+</content>
+    <tabTrigger>wpl</tabTrigger>
+    <description>Webpack loader</description>
+</snippet>

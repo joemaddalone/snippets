@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+addEventListener('$1', $0)
+]]>
+</content>
+    <tabTrigger>aL</tabTrigger>
+    <description>elementAddEventListener</description>
+</snippet>

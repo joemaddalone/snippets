@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+SegmentedControlIOS
+]]>
+</content>
+    <tabTrigger>isc</tabTrigger>
+    <scope>source.js</scope>
+    <description>SegmentedControlIOS</description>
+</snippet>
