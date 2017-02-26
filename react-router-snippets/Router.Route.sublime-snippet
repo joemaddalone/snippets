@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<Route path="$1" component={$2}>$0</Route>
+<Route $1path="$0" component={$2}>$0</Route>
 ]]>
 </content>
     <tabTrigger>route</tabTrigger>

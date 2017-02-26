@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<Prompt
+  when={$1}
+  message="$0"
+/>
+]]>
+</content>
+    <tabTrigger>prompt</tabTrigger>
+    <scope>source.js</scope>
+    <description>Router.Prompt</description>
+</snippet>

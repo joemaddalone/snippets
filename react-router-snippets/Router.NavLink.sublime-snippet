@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<NavLink to="$1">$0</NavLink>
+]]>
+</content>
+    <tabTrigger>navl</tabTrigger>
+    <scope>source.js</scope>
+    <description>Router.NavLink</description>
+</snippet>

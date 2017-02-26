@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<Redirect from='$1' to='$2'></Redirect>$0
+<Redirect to='$1'></Redirect>
 ]]>
 </content>
     <tabTrigger>redirect</tabTrigger>

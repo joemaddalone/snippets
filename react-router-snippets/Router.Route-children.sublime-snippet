@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<Route $1path="$2" children={({match}) => ($0)}></Route>
+]]>
+</content>
+    <tabTrigger>route-ch</tabTrigger>
+    <scope>source.js</scope>
+    <description>Route w/ children</description>
+</snippet>

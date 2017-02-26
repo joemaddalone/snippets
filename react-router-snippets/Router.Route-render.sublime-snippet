@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<Route $1path="$0" render={({match}) => ($0)}></Route>
+]]>
+</content>
+    <tabTrigger>route-r</tabTrigger>
+    <scope>source.js</scope>
+    <description>Route w/ render</description>
+</snippet>
