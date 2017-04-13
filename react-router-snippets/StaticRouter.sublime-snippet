@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+StaticRouter
+]]>
+</content>
+    <tabTrigger>rrs</tabTrigger>
+    <scope>source.js</scope>
+    <description>import react-router</description>
+</snippet>
